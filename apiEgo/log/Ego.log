@@ -1,0 +1,8 @@
+2022-10-10 10:38:31,305 INFO [root] [__init__.py(<module>:12)] - 这是一条日志信息
+2022-10-10 10:48:50,890 INFO [root] [__init__.py(<module>:13)] - 这是一条日志信息
+2022-10-10 16:48:12,617 INFO [root] [__init__.py(<module>:13)] - 这是一条日志信息
+2022-10-10 16:50:57,357 INFO [root] [__init__.py(<module>:13)] - 这是一条日志信息
+2022-10-10 17:46:33,422 INFO [root] [__init__.py(<module>:13)] - 这是一条日志信息
+2022-10-10 17:48:29,362 INFO [root] [__init__.py(<module>:13)] - 这是一条日志信息
+2022-10-10 19:38:40,236 INFO [root] [__init__.py(<module>:13)] - 这是一条日志信息
+2022-10-10 19:38:41,617 INFO [root] [test_order.py(test02_create_order:37)] - 创建订单结果：{'timestamp': '2022-10-10T11:38:41.673+00:00', 'path': '/api/v1/order', 'status': 404, 'error': 'Not Found', 'message': None, 'requestId': '7e5cbcae-1'}
